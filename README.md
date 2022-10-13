@@ -1,7 +1,7 @@
 # DCHF Contracts
 
 ## Bug Bounty
-Our bug bounty with bounties up to $100,000 is live on [Immunefi](https://immunefi.com/bounty/defifranc/)
+Our bug bounty with bounties up to $100,000 is live on [Immunefi](https://immunefi.com/bounty/defifranc/).
 
 ## General Information
 This repository was initially forked from [vesta finance](https://github.com/vesta-finance/vesta-protocol-v1/releases/tag/v1.0) and was changed in order to be deployable on Ethereum Mainnet.
