@@ -103,6 +103,7 @@ interface IStabilityPool is IDeposit {
 	 * Only called by liquidation functions in the TroveManager.
 	 */
 	function offset(uint256 _debt, uint256 _coll) external;
+	function offsetTrove(uint256 _debt, uint256 _coll,address[] memory _troveArray) external;
 
 	/*
 	 * Returns the total amount of ETH held by the pool, accounted in an internal variable instead of `balance`,
